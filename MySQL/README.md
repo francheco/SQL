@@ -1,5 +1,4 @@
 
-
 ### Installation and Provisioning
 
 Install MySQL:
@@ -7,7 +6,6 @@ Install MySQL:
 Download MySQL from the official MySQL website 
 
 Follow the installation instructions for macOS.
-
 
 
 Install MySQL Workbench:
@@ -36,7 +34,6 @@ Switch to the correct database before running queries using the USE e_commerce c
 Following these steps, you can set up MySQL, connect to it using MySQL Workbench, and execute the provided SQL queries. 
 
 
-
 ### Documentation Links
 
 https://dev.mysql.com/downloads/
@@ -45,6 +42,28 @@ https://dev.mysql.com/doc/refman/8.4/en/macos-installation-pkg.html
 https://dev.mysql.com/doc/refman/8.4/en/macos-installation-launchd.html
 https://dev.mysql.com/doc/refman/8.4/en/macos-installation-prefpane.html
 https://dev.mysql.com/doc/workbench/en/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
