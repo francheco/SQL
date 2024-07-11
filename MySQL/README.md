@@ -34,7 +34,7 @@ Switch to the correct database before running queries using the USE e_commerce c
 Following these steps, you can set up MySQL, connect to it using MySQL Workbench, and execute the provided SQL queries. 
 
 
-### Documentation Links
+### Documentation
 
 https://dev.mysql.com/downloads/
 https://dev.mysql.com/downloads/workbench/
